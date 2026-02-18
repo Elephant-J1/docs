@@ -4,7 +4,7 @@
   "name": "AskElephant Knowledge Base",
   "colors": {
     "primary": "#1111e8",
-    "light": "##E05581",
+    "light": "#E05581",
     "dark": "#E05581"
   },
   "favicon": "/favicon.svg",
