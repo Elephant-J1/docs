@@ -4,8 +4,8 @@
   "name": "AskElephant Knowledge Base",
   "colors": {
     "primary": "#1111e8",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#1111e8",
+    "dark": "#1111e8"
   },
   "favicon": "/favicon.svg",
   "navigation": {
